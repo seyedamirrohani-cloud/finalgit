@@ -9,3 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 
 This the line contributed
+and this fixes #2
