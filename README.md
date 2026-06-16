@@ -8,5 +8,7 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Submit a pull request
 
 
-This the line contributed
+this is the line contributed and edited by me
+
+
 and this fixes #2
